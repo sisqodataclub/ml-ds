@@ -1,0 +1,778 @@
+{
+    "Home Made, London | 2-6 Boundary Row, London, SE1 8HP": {
+        "town": "London",
+        "postcode": "SE1 8HP"
+    },
+    "Visum, Nationwide | Web based Estate Agent": {
+        "town": "None",
+        "postcode": "None"
+    },
+    "Hills, Eccles | Sentinel House, Albert Street, Eccles, Manchester, M30 0SS": {
+        "town": "Manchester",
+        "postcode": "M30 0SS"
+    },
+    "Kirn Estates, Altrincham | Kings House Stamford Street Altrincham WA14 1EX": {
+        "town": "Altrincham",
+        "postcode": "WA14 1EX"
+    },
+    "Madina Property, Manchester | 588 Stockport Road Longsight Manchester M13 0RQ": {
+        "town": "Manchester",
+        "postcode": "M13 0RQ"
+    },
+    "The Residences - Deansgate Square, The Residences - Deansgate Square | West Tower, Deansgate Square 371 Deansgate Manchester M15 4UP": {
+        "town": "Manchester",
+        "postcode": "M15 4UP"
+    },
+    "C & R Properties Ltd, Salford Manchester | Citypoint 2, 156 Chapel Street, Manchester M3 6ES": {
+        "town": "Manchester",
+        "postcode": "M3 6ES"
+    },
+    "Northern Etchells, Manchester | 53a Church Road, Gatley, Cheadle, SK8 4NG": {
+        "town": "Cheadle",
+        "postcode": "SK8 4NG"
+    },
+    "Your Move, Swinton | Bank Chambers Worsley Road Worsley Manchester M27 0FW": {
+        "town": "Manchester",
+        "postcode": "M27 0FW"
+    },
+    "C & R Properties Ltd, Hulme Manchester | Meridian Square Stretford Road Hulme Manchester M15 5JH": {
+        "town": "Manchester",
+        "postcode": "M15 5JH"
+    },
+    "Hibbert Homes, Hale | 175 Ashley Road Hale WA15 9SD": {
+        "town": "Hale",
+        "postcode": "WA15 9SD"
+    },
+    "Thornley Groves, Didsbury | 722 Wilmslow Road, Didsbury, Manchester, M20 2DW": {
+        "town": "Manchester",
+        "postcode": "M20 2DW"
+    },
+    "Kaytons Estate Agents, Manchester | 365 Chapel Street, Salford, M3 5JT": {
+        "town": "Salford",
+        "postcode": "M3 5JT"
+    },
+    "Reeds Rains, Manchester | 29 Whitworth Street West Manchester M1 5ND": {
+        "town": "Manchester",
+        "postcode": "M1 5ND"
+    },
+    "Native Communities, Manchester | Aytoun Street, Manchester, M1 3GL": {
+        "town": "Manchester",
+        "postcode": "M1 3GL"
+    },
+    "OpenRent, London | 20 Wenlock Road, London, N1 7GU": {
+        "town": "London",
+        "postcode": "N1 7GU"
+    },
+    "Vesper Homes, Manchester | One St Peter's Square Manchester M2 3DE": {
+        "town": "Manchester",
+        "postcode": "M2 3DE"
+    },
+    "Julian Wadden, Heaton Moor | 14 Moorside Road, Heaton Moor, Stockport, SK4 4DT": {
+        "town": "Stockport",
+        "postcode": "SK4 4DT"
+    },
+    "NEXIS Property, Manchester | 361 Deansgate, Manchester, M3 4LG": {
+        "town": "Manchester",
+        "postcode": "M3 4LG"
+    },
+    "The Estate Agent Manchester, Manchester | B2 Chorlton Mill, Cambridge Street, Manchester, M1 5BY": {
+        "town": "Manchester",
+        "postcode": "M1 5BY"
+    },
+    "Goodwin Fish, Manchester | Goodwin Fish 261-263 Deansgate Manchester M3 4EW": {
+        "town": "Manchester",
+        "postcode": "M3 4EW"
+    },
+    "Thornley Groves, Fallowfield | 306 Wilmslow Road, Manchester, M14 6LF": {
+        "town": "Manchester",
+        "postcode": "M14 6LF"
+    },
+    "Jordan Fishwick, Chorlton | 410-412 Barlow Moor Road, Chorlton, Manchester, M21 8AD": {
+        "town": "Manchester",
+        "postcode": "M21 8AD"
+    },
+    "UNCLE, London | 7a Howick Place London SW1P 1DZ": {
+        "town": "London",
+        "postcode": "SW1P 1DZ"
+    },
+    "Flambard Williams Limited, Canary Wharf | 30 Churchill Place, London, E14 5RE": {
+        "town": "London",
+        "postcode": "E14 5RE"
+    },
+    "Allsop, The Trilogy | 27 Ellesmere Street, Hulme, Manchester, M15 4RU": {
+        "town": "Manchester",
+        "postcode": "M15 4RU"
+    },
+    "Leaders Lettings, Manchester | 289 - 291 Deansgate, Manchester, M3 4EW": {
+        "town": "Manchester",
+        "postcode": "M3 4EW"
+    },
+    "Clarke & Co, Chadderton | 582 Broadway, Chadderton, Oldham OL9 9NF": {
+        "town": "Oldham",
+        "postcode": "OL9 9NF"
+    },
+    "Livingway Team Ltd, Livingway | Jactin house 24 Hood Street Manchester M46WX": {
+        "town": "Manchester",
+        "postcode": "M46WX"
+    },
+    "South Manchester Homes, Didsbury | Suite 97, 792 Wilmslow Road, Didsbury, Manchester, M20 6UG": {
+        "town": "Manchester",
+        "postcode": "M20 6UG"
+    },
+    "Lancashire Properties, Manchester | 967 Stockport Road, Levenshulme, Manchester, M19 3NP": {
+        "town": "Manchester",
+        "postcode": "M19 3NP"
+    },
+    "Philip James Manchester, Manchester | Ground Floor, Oxid House, 78 Newton St, Manchester, M1 1AL": {
+        "town": "Manchester",
+        "postcode": "M1 1AL"
+    },
+    "Thornley Groves, Manchester Southern Gateway | 25 Whitworth Street West, Manchester, M1 5ND": {
+        "town": "Manchester",
+        "postcode": "M1 5ND"
+    },
+    "Admove, Altrincham | 197-201 Manchester Road, Altrincham, WA14 5NU": {
+        "town": "Altrincham",
+        "postcode": "WA14 5NU"
+    },
+    "Settio Property Experience Ltd, Manchester | Northspring Building, 70 Spring Gardens, Manchester, M2 2BQ": {
+        "town": "Manchester",
+        "postcode": "M2 2BQ"
+    },
+    "Get Living, New Maker Yards | 15 Middlewood Street, Salford, M5 4YW": {
+        "town": "Salford",
+        "postcode": "M5 4YW"
+    },
+    "BRIC Living, Liverpool | 605 Smithdown Road, Allerton, Liverpool, L15 5AG": {
+        "town": "Liverpool",
+        "postcode": "L15 5AG"
+    },
+    "Thorpe & Co, Salford | Suite 11, 8th Floor, St James House, Pendleton Way, Salford, M6 5FW": {
+        "town": "Salford",
+        "postcode": "M6 5FW"
+    },
+    "Normie Sales & Lettings, North Manchester | 503-505 Bury New Road, Prestwich, Manchester M25 1AD": {
+        "town": "Prestwich",
+        "postcode": "M25 1AD"
+    },
+    "CityZEN, London | CityZEN Property Group, 11 Burford Road, London, E15 2ST": {
+        "town": "London",
+        "postcode": "E15 2ST"
+    },
+    "Property Genius, Manchester | 424 Barlow Moor Road, Chorlton Cum Hardy, Manchester, M21 8AD": {
+        "town": "Manchester",
+        "postcode": "M21 8AD"
+    },
+    "Hunters, Manchester | 22 St John Street, Manchester, Greater Manchester, M3 4EB": {
+        "town": "Manchester",
+        "postcode": "M3 4EB"
+    },
+    "Clay Life, Clay | Anchorage Quay, Salford, M50 3BX": {
+        "town": "Salford",
+        "postcode": "M50 3BX"
+    },
+    "Homes2share, Manchester | Flat 1, 32 Hathersage Road, Manchester, M13 0FE": {
+        "town": "Manchester",
+        "postcode": "M13 0FE"
+    },
+    "ila, Swan Street House | Swan Street House, Swan Street, Ancoats, Manchester, M4 5JU": {
+        "town": "Manchester",
+        "postcode": "M4 5JU"
+    },
+    "uhaus, uhaus | 7 Nobel Way, Oxford Road, Manchester, M1 7FU": {
+        "town": "Manchester",
+        "postcode": "M1 7FU"
+    },
+    "Bridgfords Lettings, Didsbury | 731 Wilmslow Road, Didsbury, Manchester, M20 6WF": {
+        "town": "Manchester",
+        "postcode": "M20 6WF"
+    },
+    "Cortland, Cortland Colliers Yard | 5 Bankside Boulevard, Salford, M3 7HD": {
+        "town": "Salford",
+        "postcode": "M3 7HD"
+    },
+    "One Move Group, Manchester | 125 Deansgate, Manchester, M3 2LH": {
+        "town": "Manchester",
+        "postcode": "M3 2LH"
+    },
+    "Bridgfords Lettings, Manchester | The Hacienda 21 Albion Street Manchester M1 5DA": {
+        "town": "Manchester",
+        "postcode": "M1 5DA"
+    },
+    "Accommodation.co.uk, covering National | 111 Piccadilly, Manchester, M1 2HY": {
+        "town": "Manchester",
+        "postcode": "M1 2HY"
+    },
+    "Buraq Estates, Manchester | 314 Wilmslow Road Fallowfield Manchester M14 6XQ": {
+        "town": "Manchester",
+        "postcode": "M14 6XQ"
+    },
+    "Roger Dean, Heald Green | 218 Finney Lane, Heald Green, SK8 3QA": {
+        "town": "Heald Green",
+        "postcode": "SK8 3QA"
+    },
+    "Three Sixty Living, Stockport | 2 Edward Street, Stockport, SK1 3NQ": {
+        "town": "Stockport",
+        "postcode": "SK1 3NQ"
+    },
+    "Address Properties, Liverpool | 183 - 185 Rose Lane, Mossley Hill, Liverpool, L18 5EA": {
+        "town": "Liverpool",
+        "postcode": "L18 5EA"
+    },
+    "Ustay Global, Manchester | 3, 28 spaces, Peter House, Oxford Street, Manchester, M1 5AN": {
+        "town": "Manchester",
+        "postcode": "M1 5AN"
+    },
+    "Select Residential, Manchester | Horseshoe Farm, Elkington Way, Alderley Edge, SK9 7GU": {
+        "town": "Alderley Edge",
+        "postcode": "SK9 7GU"
+    },
+    "Ascend, Manchester | 241 Deansgate Manchester M3 4EN": {
+        "town": "Manchester",
+        "postcode": "M3 4EN"
+    },
+    "Hunters Worsley, Worsley | Suite 4, The Granary, Worsley, Manchester, M28 2EB": {
+        "town": "Manchester",
+        "postcode": "M28 2EB"
+    },
+    "Bridgfords Lettings, Withington | 416 Wilmslow Road, Withington, Manchester M20 3BW": {
+        "town": "Manchester",
+        "postcode": "M20 3BW"
+    },
+    "Reside, Manchester | 249 Deansgate, Manchester, M3 4EN": {
+        "town": "Manchester",
+        "postcode": "M3 4EN"
+    },
+    "Orlando Reid, Manchester | St John's Court 19B Quay Street, Manchester, M3 3HN": {
+        "town": "Manchester",
+        "postcode": "M3 3HN"
+    },
+    "Granite Lettings & Property Management - Residential Lettings & Sales, Northern Quarter | 52 Port Street, Northern Quarter, Manchester, M1 2EQ": {
+        "town": "Manchester",
+        "postcode": "M1 2EQ"
+    },
+    "We Let Properties, Manchester | 3-5 Duke Street, Manchester, M3 4NF": {
+        "town": "Manchester",
+        "postcode": "M3 4NF"
+    },
+    "Solomon Estates, Manchester | 896 Stockport Road, Levenshulme, Manchester, M19 3AD": {
+        "town": "Manchester",
+        "postcode": "M19 3AD"
+    },
+    "Kingsdene Ltd, Manchester | 257 Deansgate, Manchester, M3 4EN": {
+        "town": "Manchester",
+        "postcode": "M3 4EN"
+    },
+    "Jordan Fishwick, Didsbury | 757 to 759, Wilmslow Road, Manchester, Lancashire, M20 6RN": {
+        "town": "Manchester",
+        "postcode": "M20 6RN"
+    },
+    "loc8me, Covering Manchester | 202 Ashby Square, Loughborough, LE11 5AA": {
+        "town": "Loughborough",
+        "postcode": "LE11 5AA"
+    },
+    "Downing Property Management Ltd, Square Gardens | 5 Botanic Avenue, Manchester, M15 6AA": {
+        "town": "Manchester",
+        "postcode": "M15 6AA"
+    },
+    "Jordan Fishwick, Manchester | 68 Arches Whitworth Street West Manchester M1 5WQ": {
+        "town": "Manchester",
+        "postcode": "M1 5WQ"
+    },
+    "Julie Twist Properties, Manchester | 332-334 Deansgate, Manchester, M3 4LY": {
+        "town": "Manchester",
+        "postcode": "M3 4LY"
+    },
+    "Julian Wadden, Didsbury | 764b Wilmslow Road, Didsbury, Manchester, M20 2DR": {
+        "town": "Manchester",
+        "postcode": "M20 2DR"
+    },
+    "Hunters, South Manchester | 372 Palatine Road, Manchester, M22 4FZ": {
+        "town": "Manchester",
+        "postcode": "M22 4FZ"
+    },
+    "Montrose Properties Ltd, West Didsbury | 20a Lapwing Lane, West Didsbury, Manchester, M20 2WS": {
+        "town": "Manchester",
+        "postcode": "M20 2WS"
+    },
+    "Northern Group, Manchester | Jactin House 24 Hood Street Ancoats Urban Village Manchester M4 6WX": {
+        "town": "Manchester",
+        "postcode": "M4 6WX"
+    },
+    "Welcome To Manchester Lettings, Covering Manchester | Manchester": {
+        "town": "Manchester",
+        "postcode": "None"
+    },
+    "Complete RPI, Birmingham | Suite 142 51 Pinfold Street Birmingham B2 4AY": {
+        "town": "Birmingham",
+        "postcode": "B2 4AY"
+    },
+    "Thornley Groves, Monton | 25-27 Monton Green, Monton, Eccles, Manchester, M30 9LL": {
+        "town": "Manchester",
+        "postcode": "M30 9LL"
+    },
+    "LOCAL Manchester, LOCAL Manchester | Unit 1 2 Garden Lane Salford M3 7FJ": {
+        "town": "Salford",
+        "postcode": "M3 7FJ"
+    },
+    "Wren Properties Ltd, Didsbury | Wren House 108 Palatine Road, Didsbury, Manchester, M20 3ZA": {
+        "town": "Manchester",
+        "postcode": "M20 3ZA"
+    },
+    "Karsons Lettings, Manchester | Karsons Lettings Innospace, 2nd Floor, Turing House, 5 Archway, Manchester M15 5RL": {
+        "town": "Manchester",
+        "postcode": "M15 5RL"
+    },
+    "Taylor & Wood Estate Agents, Hyde | 104-106 Market Street, Hyde, SK14 1ES": {
+        "town": "Hyde",
+        "postcode": "SK14 1ES"
+    },
+    "Union, Union | Water Street, Manchester, M3 4JQ": {
+        "town": "Manchester",
+        "postcode": "M3 4JQ"
+    },
+    "Savills Lettings, Manchester | 50 Bridge Street, Manchester, M3 3BW": {
+        "town": "Manchester",
+        "postcode": "M3 3BW"
+    },
+    "Gascoigne Halman, Didsbury | Elm House, 739 Wilmslow Road, Manchester, M20 6RN": {
+        "town": "Manchester",
+        "postcode": "M20 6RN"
+    },
+    "Callaghans, Gatley | 46 Church Road Gatley SK8 4NQ": {
+        "town": "Gatley",
+        "postcode": "SK8 4NQ"
+    },
+    "@ThePlace, Dukinfield | Suite 2, The Old Court House, Chapel Street, Dukinfield, SK16 4DT": {
+        "town": "Dukinfield",
+        "postcode": "SK16 4DT"
+    },
+    "Cortland, Botanica | Chester Road Manchester, M15 4YH": {
+        "town": "Manchester",
+        "postcode": "M15 4YH"
+    },
+    "HYBR, Covering Manchester | Covering Manchester": {
+        "town": "Manchester",
+        "postcode": "None"
+    },
+    "Drake & Co, Rusholme | Anson Parade, 161a Dickenson Road, Rusholme, Manchester, M14 5HZ": {
+        "town": "Manchester",
+        "postcode": "M14 5HZ"
+    },
+    "George Adams (Estate Agents) Ltd, Manchester | Unit 1, Bishops Corner 32 Stretford Road, Hulme, Manchester, M15 4UW": {
+        "town": "Manchester",
+        "postcode": "M15 4UW"
+    },
+    "Emoov, Chelmsford | Marsh Farm House Lower Burnham Road Latchingdon CM3 6HQ": {
+        "town": "Latchingdon",
+        "postcode": "CM3 6HQ"
+    },
+    "Duet, Duet | The Quays, Salford, M50 3SF": {
+        "town": "Salford",
+        "postcode": "M50 3SF"
+    },
+    "Buckley Frayne, Manchester | 6-14 Great Ancoats Street, Manchester, M4 5AZ": {
+        "town": "Manchester",
+        "postcode": "M4 5AZ"
+    },
+    "Joules Estate Agency, Heaton Mersey | 450 Didsbury Road Stockport SK4 3BS": {
+        "town": "Stockport",
+        "postcode": "SK4 3BS"
+    },
+    "Bridgfords Lettings, Sale | 81-83 School Road, Sale, M33 7XA": {
+        "town": "Sale",
+        "postcode": "M33 7XA"
+    },
+    "Greystar, Oxbow, Salford | 11 Back Hulme Street, Salford, M5 4QT": {
+        "town": "Salford",
+        "postcode": "M5 4QT"
+    },
+    "Reeds Rains, Salford | 167 Langworthy Road, Salford, M6 5PW": {
+        "town": "Salford",
+        "postcode": "M6 5PW"
+    },
+    "Bridgfords Lettings, Chorlton | 561 Barlow Moor Road, Chorlton, Manchester, M21 8AN": {
+        "town": "Manchester",
+        "postcode": "M21 8AN"
+    },
+    "Grovewell, Manchester | Suite 8 Broadhurst House Bury Old Road, Salford, M7 4QX": {
+        "town": "Salford",
+        "postcode": "M7 4QX"
+    },
+    "Residential Estates, Chester | First Fl, Kinnerton House Bell Meadow Business Park Park Lane Pulford CH4 9EP": {
+        "town": "Pulford",
+        "postcode": "CH4 9EP"
+    },
+    "Reeds Rains, Didsbury | 713 Wilmslow Road, Didsbury, Manchester, M20 6RE": {
+        "town": "Manchester",
+        "postcode": "M20 6RE"
+    },
+    "COUSINS ESTATE AGENTS, Failsworth | 754 Oldham Road, Failsworth, Oldham, M35 9FE": {
+        "town": "Oldham",
+        "postcode": "M35 9FE"
+    },
+    "Parello Ltd, Walkden | 1 Bridgewater Road, Worsley, M28 3JE": {
+        "town": "Worsley",
+        "postcode": "M28 3JE"
+    },
+    "Primo Property Management, Manchester | 46 Moss Lane West Manchester M15 5FB": {
+        "town": "Manchester",
+        "postcode": "M15 5FB"
+    },
+    "Intus Lettings, Manchester | Suite A, 2nd Floor, The Nest, Broadway, Salford, M50 2UE": {
+        "town": "Salford",
+        "postcode": "M50 2UE"
+    },
+    "The James Manchester, The James Manchester | 8 Dantzic Street, Manchester, M4 2AD": {
+        "town": "Manchester",
+        "postcode": "M4 2AD"
+    },
+    "eXp UK, North West | 1 Northumberland Avenue, Trafalgar Square, London, WC2N 5BW": {
+        "town": "London",
+        "postcode": "WC2N 5BW"
+    },
+    "Northwood, Wigan | 55-57 Mesnes Street, Wigan, WN1 1QX": {
+        "town": "Wigan",
+        "postcode": "WN1 1QX"
+    },
+    "Abode Property Management, Greater Manchester | Suite B, 7th Floor, Beckwith House 1-3 Wellington Road Stockport SK4 1AF": {
+        "town": "Stockport",
+        "postcode": "SK4 1AF"
+    },
+    "Simple Life, Simple Life | Simple Life Stafford Court, 145 Washway Road Sale M33 7PE": {
+        "town": "Sale",
+        "postcode": "M33 7PE"
+    },
+    "Martin & Co, Rochdale & Oldham | 15b Cheetham Street, Rochdale, OL16 1DG": {
+        "town": "Rochdale",
+        "postcode": "OL16 1DG"
+    },
+    "The Good Estate Agency, Manchester | The Good Estate Agency, 68 Quay Street, Manchester, M3 3EJ": {
+        "town": "Manchester",
+        "postcode": "M3 3EJ"
+    },
+    "NPP Residential, Manchester | 22 Lloyd Street, Manchester, M2 5WA": {
+        "town": "Manchester",
+        "postcode": "M2 5WA"
+    },
+    "VitalSpace, South Manchester | 22 Flixton Road Urmston M41 5AA": {
+        "town": "Urmston",
+        "postcode": "M41 5AA"
+    },
+    "X1 Sales & Lettings, Salford | 9 Michigan Avenue, Salford, M50 2HA": {
+        "town": "Salford",
+        "postcode": "M50 2HA"
+    },
+    "Manchester Apartments, Manchester Apartments | 60 Oxford Street, Manchester, M1 5EE": {
+        "town": "Manchester",
+        "postcode": "M1 5EE"
+    },
+    "Dandara Living, Manchester, Chapel Wharf | Alcock House, 99 Chapel Street, Salford, M3 5DZ": {
+        "town": "Salford",
+        "postcode": "M3 5DZ"
+    },
+    "Nicholas Humphreys, Manchester | 323 Wilmslow Road, Fallowfield, Manchester, M14 6NW": {
+        "town": "Manchester",
+        "postcode": "M14 6NW"
+    },
+    "North Property Group, Manchester | 2nd Floor, 8-16 Newton Street, Manchester, M1 2AN": {
+        "town": "Manchester",
+        "postcode": "M1 2AN"
+    },
+    "Thornley Groves, Prestwich | 493 Bury New Road, Prestwich, Manchester, M25 1AD": {
+        "town": "Prestwich",
+        "postcode": "M25 1AD"
+    },
+    "urbanbubble, Manchester | Sevendale House, 7 Dale Street, Manchester, M1 1JA": {
+        "town": "Manchester",
+        "postcode": "M1 1JA"
+    },
+    "PriceLinsey, Sheffield | Office 4, Northern Gateway, Enterprise Centre, Saltergate, Chesterfield, S40 1UT": {
+        "town": "Chesterfield",
+        "postcode": "S40 1UT"
+    },
+    "SnugPads, Salford | Salford": {
+        "town": "None",
+        "postcode": "None"
+    },
+    "For Living, For Living | 52 Regent Street, Eccles, Manchester, M30 0BP": {
+        "town": "Eccles",
+        "postcode": "M30 0BP"
+    },
+    "Fozard Properties Ltd, Upton | 118 Ford Road, Upton Village, Wirral CH49 0TQ": {
+        "town": "Wirral",
+        "postcode": "CH49 0TQ"
+    },
+    "Main & Main, Heald Green | 198 Finney Lane, Heald Green, Cheadle, SK8 3QA": {
+        "town": "Cheadle",
+        "postcode": "SK8 3QA"
+    },
+    "Amro Property Management, The Green Rooms | Leader House, Blue Media City, Salford, M50 2AG": {
+        "town": "Salford",
+        "postcode": "M50 2AG"
+    },
+    "Rent For Me, Manchester | Office 2,8 Chester Street, Manchester, M1 5GE": {
+        "town": "Manchester",
+        "postcode": "M1 5GE"
+    },
+    "MCR Move, Manchester | 268 Moseley Road, Levenshulme, Manchester, M19 2LH": {
+        "town": "Manchester",
+        "postcode": "M19 2LH"
+    },
+    "Ying Wah Property, Manchester | Unit 301 The Junction Merchants Quay, Salford, M50 3SG": {
+        "town": "Salford",
+        "postcode": "M50 3SG"
+    },
+    "Townhouse, Manchester | Townhouse, 117 Ducie House, Ducie Street, Manchester, M1 2JW": {
+        "town": "Manchester",
+        "postcode": "M1 2JW"
+    },
+    "City Comfort Luxury Apartments, Manchester | 209-210 Oakland House Talbot Road, Stretford, Manchester, M16 0PQ": {
+        "town": "Manchester",
+        "postcode": "M16 0PQ"
+    },
+    "Julian Wadden, Stockport | 81-83 Wellington Road South, Stockport, SK1 3SL": {
+        "town": "Stockport",
+        "postcode": "SK1 3SL"
+    },
+    "Aubrey Lee & Co, Prestwich | 39, Bury New Road, Prestwich, Manchester, M25 9JY": {
+        "town": "Manchester",
+        "postcode": "M25 9JY"
+    },
+    "Saltsman & co, Droylsden | 116 Market Street, Droylsden, Manchester, M43 7AA": {
+        "town": "Droylsden",
+        "postcode": "M43 7AA"
+    },
+    "Richmond Property Management & Letting Ltd, Didsbury | 3 Elm Grove, Didsbury, Manchester, M20 6PL": {
+        "town": "Manchester",
+        "postcode": "M20 6PL"
+    },
+    "StudentTenant, Canterbury | 27 Castle Street, Canterbury, CT1 2PX": {
+        "town": "Canterbury",
+        "postcode": "CT1 2PX"
+    },
+    "QUBE Residential, Salford Quays | 7th floor, 1 City Approach, Albert Street, Eccles, M30 0BG": {
+        "town": "Eccles",
+        "postcode": "M30 0BG"
+    },
+    "S&S Property Group, Manchester | S&S Property Group 78a Kings Road Manchester M25 0FY": {
+        "town": "Manchester",
+        "postcode": "M25 0FY"
+    },
+    "Reeds Rains, Salford Quays City Living | 2 Anchorage Quay, Salford, M50 3YW": {
+        "town": "Salford",
+        "postcode": "M50 3YW"
+    },
+    "Leaders Lettings, Fallowfield | 351 Wilmslow Road, Ladybarn, Manchester, M14 6XS": {
+        "town": "Manchester",
+        "postcode": "M14 6XS"
+    },
+    "Redstone Lettings and Management, Manchester | 37 King Street, Manchester, M2 7AT": {
+        "town": "Manchester",
+        "postcode": "M2 7AT"
+    },
+    "Purplebricks, covering Manchester | Purplebricks, 650 The Crescent Colchester Business Park, Colchester, United Kingdom CO4 9YQ": {
+        "town": "Colchester",
+        "postcode": "CO4 9YQ"
+    },
+    "Home Estate Agents, Monton | 222 Monton Road, Eccles, Manchester, M30 9LJ": {
+        "town": "Manchester",
+        "postcode": "M30 9LJ"
+    },
+    "Rentlife, Birmingham | Ground Floor, 176 Holliday Street, Birmingham, B1 1TJ": {
+        "town": "Birmingham",
+        "postcode": "B1 1TJ"
+    },
+    "Pure, Manchester | 125 Deansgate, Manchester, M3 2LH": {
+        "town": "Manchester",
+        "postcode": "M3 2LH"
+    },
+    "Lettingsupermarket.com, National | Unit 5, Bicton Business Park, Shrewsbury, SY3 8DY": {
+        "town": "Shrewsbury",
+        "postcode": "SY3 8DY"
+    },
+    "Burgin Atkinson, Retford | Retford Enterprise Centre, Randall Way, Retford, DN22 7GR": {
+        "town": "Retford",
+        "postcode": "DN22 7GR"
+    },
+    "Lawrence Copeland (Town & City Centre), Manchester | Imperial Court 2 Exchange Quay Salford M5 3EB": {
+        "town": "Salford",
+        "postcode": "M5 3EB"
+    },
+    "JonSimon Estate Agents, Radcliffe | 10-12 Church Street West, Radcliffe, Manchester M26 2SQ": {
+        "town": "Radcliffe",
+        "postcode": "M26 2SQ"
+    },
+    "Delisa Miller, Manchester | 44 Hulme High Street, Hulme, Manchester, M15 5JP": {
+        "town": "Manchester",
+        "postcode": "M15 5JP"
+    },
+    "N P Estates, Manchester | 61 Ashton Road East, Failsworth, Manchester, M35 9PW": {
+        "town": "Failsworth",
+        "postcode": "M35 9PW"
+    },
+    "International Property Partners, Covering Greater Manchester | Holland House 1-5, Oakfield, Sale, Cheshire, M33 6TT": {
+        "town": "Sale",
+        "postcode": "M33 6TT"
+    },
+    "LettingaProperty.com, Nationwide - Lettings | Brook House, Birmingham Road, Henley in Arden, B95 5QR": {
+        "town": "Henley in Arden",
+        "postcode": "B95 5QR"
+    },
+    "The Slate Yard, Salford | 7 Stanley Street, Salford, M3 5GB": {
+        "town": "Salford",
+        "postcode": "M3 5GB"
+    },
+    "Manlets, Manchester | 58-60 Whitworth Street, Bridgewater House Manchester, M1 6LT": {
+        "town": "Manchester",
+        "postcode": "M1 6LT"
+    },
+    "Wise Living Homes, Nottingham | 17 Regan Way, Toton, Nottingham, NG9 6RZ": {
+        "town": "Nottingham",
+        "postcode": "NG9 6RZ"
+    },
+    "Trading Places, Stretford | 133 Barton Road, Stretford, Manchester, M32 8DN": {
+        "town": "Manchester",
+        "postcode": "M32 8DN"
+    },
+    "My Property Club, Denton | 66 Hyde Road, Denton, M34 3AG": {
+        "town": "Denton",
+        "postcode": "M34 3AG"
+    },
+    "Edward Mellor Ltd, Levenshulme | 918 Stockport Road, Levenshulme, Manchester, M19 3AB": {
+        "town": "Manchester",
+        "postcode": "M19 3AB"
+    },
+    "JOHNS&CO, Manchester | 82 King Street, Manchester, M2 4WQ": {
+        "town": "Manchester",
+        "postcode": "M2 4WQ"
+    },
+    "Downtown Asset Management, Salford | Woden Street M5 4YE": {
+        "town": "None",
+        "postcode": "M5 4YE"
+    },
+    "Watersons, Sale | 91-93 School Road, Sale, M33 7XA": {
+        "town": "Sale",
+        "postcode": "M33 7XA"
+    },
+    "Leef Property Management Ltd, Warrington | 12b Olympic Way Birchwood Warrington WA2 0YL": {
+        "town": "Warrington",
+        "postcode": "WA2 0YL"
+    },
+    "Craven & Company, Sale | 98 School Road, Sale, M33 7XB": {
+        "town": "Sale",
+        "postcode": "M33 7XB"
+    },
+    "AIHOMES LIMITED, Manchester | AiHOMES LTD, Empress Business Centre, 380 Chester Road, Manchester, M16 9EA": {
+        "town": "Manchester",
+        "postcode": "M16 9EA"
+    },
+    "Premier Residential, Manchester | 16 Commercial Street, Manchester, M15 4PZ": {
+        "town": "Manchester",
+        "postcode": "M15 4PZ"
+    },
+    "Pearson Ferrier, Radcliffe | 44 Blackburn Street, Radcliffe, M26 1NQ": {
+        "town": "Radcliffe",
+        "postcode": "M26 1NQ"
+    },
+    "Property Market Hub, Manchester | 249 Kingsway, Burnage, Manchester, M19 1AL": {
+        "town": "Manchester",
+        "postcode": "M19 1AL"
+    },
+    "Greenco, Salford | 19 Leicester Road Salford M7 4AS": {
+        "town": "Salford",
+        "postcode": "M7 4AS"
+    },
+    "Henry Wiltshire, Manchester | 53 King Street, Manchester, M2 4LQ": {
+        "town": "Manchester",
+        "postcode": "M2 4LQ"
+    },
+    "HC-GB, North | 19 London House, High Street, Stony Stratford, Milton Keynes, MK11 1SY": {
+        "town": "Milton Keynes",
+        "postcode": "MK11 1SY"
+    },
+    "Your Move, Radcliffe | 43 Blackburn Street, Radcliffe, M26 1NR": {
+        "town": "Radcliffe",
+        "postcode": "M26 1NR"
+    },
+    "Flax & Co, Manchester | 509 Wilmslow Road, Withington, Manchester, M20 4BA": {
+        "town": "Manchester",
+        "postcode": "M20 4BA"
+    },
+    "City Centre Chic, Manchester | No1 Spinningfields, Manchester, M3 3JE": {
+        "town": "Manchester",
+        "postcode": "M3 3JE"
+    },
+    "Vox, Vox | 1 Trentham Street, Hulme, Manchester, M15 4YG": {
+        "town": "Manchester",
+        "postcode": "M15 4YG"
+    },
+    "Martin & Co, Manchester Central | 33 Liverpool Road, Manchester, M3 4NQ": {
+        "town": "Manchester",
+        "postcode": "M3 4NQ"
+    },
+    "Bridgfords Lettings, Stockport | 2a Mersey Square Stockport SK1 1NU": {
+        "town": "Stockport",
+        "postcode": "SK1 1NU"
+    },
+    "Leighton Snow, Bramhall | 8A Fir Road, Bramhall, SK7 2NP": {
+        "town": "Bramhall",
+        "postcode": "SK7 2NP"
+    },
+    "Belvoir, Manchester | 61 Great Ancoats Street, Manchester, M4 5AB": {
+        "town": "Manchester",
+        "postcode": "M4 5AB"
+    },
+    "Aubrey Lee & Co, Blackley | 1170 Rochdale Road, Blackley, Manchester M9 6ER": {
+        "town": "Manchester",
+        "postcode": "M9 6ER"
+    },
+    "ARCPROPERTY MANAGEMENT & LETTINGS, Edinburgh | Bonnington Bond, 2 Anderson Place, Edinburgh, EH6 5NP": {
+        "town": "Edinburgh",
+        "postcode": "EH6 5NP"
+    },
+    "Clive Anthony Sales & Lettings, Whitefield | 114 Bury New Road, Whitefield, M45 6AD": {
+        "town": "Whitefield",
+        "postcode": "M45 6AD"
+    },
+    "Cherry Picked Properties, Heald Green | Southgate Centre Two, 321 Wilmslow Road, Heald Green, Cheadle, SK8 3PW": {
+        "town": "Cheadle",
+        "postcode": "SK8 3PW"
+    },
+    "Mishkan Estates, Manchester | 2a Park Hill, Bury Old Road, Prestwich, Manchester, M25 0FX": {
+        "town": "Prestwich",
+        "postcode": "M25 0FX"
+    },
+    "Edward Mellor Ltd, Reddish | 410 Reddish Road, Reddish, Stockport, SK5 7AA": {
+        "town": "Stockport",
+        "postcode": "SK5 7AA"
+    },
+    "Miller Metcalfe, Bolton | 2 - 10 Bradshawgate Bolton BL1 1DG": {
+        "town": "Bolton",
+        "postcode": "BL1 1DG"
+    },
+    "HASSLE FREE LETTINGS, London | Covering London": {
+        "town": "London",
+        "postcode": null
+    },
+    "Manchester Easy Rent, Manchester | Suite 47 792 Wilmslow Road, Didsbury, Manchester, M20 6UG": {
+        "town": "Manchester",
+        "postcode": "M20 6UG"
+    },
+    "Hermes Living, Manchester | Unit 415 Spaces, 125 Deansgate, Manchester, M3 2BY": {
+        "town": "Manchester",
+        "postcode": "M3 2BY"
+    },
+    "Savills Lettings, New Vic | New Victoria, 103 Corporation Street, Manchester, M4 4DZ": {
+        "town": "Manchester",
+        "postcode": "M4 4DZ"
+    },
+    "urbanbubble, Manchester | Sevendale house, 7 Dale Street, Manchester, M1 1JA": {
+        "town": "Manchester",
+        "postcode": "M1 1JA"
+    },
+    "Northern Group, Manchester | Jactin House, 24 Hood Street, Manchester, M4 6WX": {
+        "town": "Manchester",
+        "postcode": "M4 6WX"
+    }
+}
