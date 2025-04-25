@@ -1,0 +1,16 @@
+# This script performs [describe the functionality of the code here].
+# 
+# Note:
+# To ensure proper execution, install the required packages in a virtual environment.
+# Follow these steps:
+# 1. Create a virtual environment:
+#    python -m venv venv
+# 2. Activate the virtual environment:
+#    - On Windows: venv\Scripts\activate
+#    - On macOS/Linux: source venv/bin/activate
+# 3. Install the required packages:
+#    pip install -r requirements.txt
+#
+# Make sure to deactivate the virtual environment after use:
+#    deactivate
+pandas
