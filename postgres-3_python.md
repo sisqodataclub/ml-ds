@@ -19,7 +19,7 @@ import psycopg2
 # Database connection parameters
 db_params = {
     "host": "localhost",
-    "database": "your_database",
+    "database": "my_database",
     "user": "your_username",
     "password": "your_password"
 }

@@ -1,0 +1,196 @@
+2025-04-25 21:02:41,916 - INFO - \u2705 Connection successful!
+2025-04-25 21:02:41,974 - INFO - \u2705 SQL file 'C:\Users\fd92u\ml-ds\sql\supabase\migrations\20250425184252_global.sql' imported successfully!
+2025-04-25 21:02:41,974 - INFO - \U0001f512 Connection closed.
+2025-04-26 04:30:36,002 - INFO - \u2705 Connection successful!
+2025-04-26 04:30:36,007 - ERROR - \u274c Error: 'charmap' codec can't decode byte 0x8f in position 237: character maps to <undefined>
+2025-04-26 04:30:36,008 - INFO - \U0001f512 Connection closed.
+2025-04-26 04:36:19,884 - INFO - \u2705 Connection successful!
+2025-04-26 04:36:19,888 - ERROR - \u274c Error: 'charmap' codec can't encode character '\U0001f527' in position 58: character maps to <undefined>
+2025-04-26 04:36:19,888 - INFO - \U0001f512 Connection closed.
+2025-04-26 04:38:41,583 - INFO - ✅ Connection successful!
+2025-04-26 04:38:41,585 - ERROR - ❌ Error: 'charmap' codec can't encode character '\U0001f527' in position 58: character maps to <undefined>
+2025-04-26 04:38:41,585 - INFO - 🔒 Connection closed.
+2025-04-26 04:40:39,990 - INFO - Connection successful!
+2025-04-26 04:40:39,992 - ERROR - \u274c Error: 'charmap' codec can't encode character '\U0001f527' in position 58: character maps to <undefined>
+2025-04-26 04:40:39,992 - INFO - Connection closed.
+2025-04-26 04:41:31,603 - INFO - Connection successful!
+2025-04-26 04:41:31,605 - ERROR - Error: 'charmap' codec can't encode character '\U0001f527' in position 58: character maps to <undefined>
+2025-04-26 04:41:31,605 - INFO - Connection closed.
+2025-04-26 04:43:34,492 - INFO - Connection successful!
+2025-04-26 04:43:34,493 - ERROR - Error: 'charmap' codec can't encode character '\U0001f527' in position 58: character maps to <undefined>
+2025-04-26 04:43:34,494 - INFO - Connection closed.
+2025-04-26 04:45:24,066 - INFO - Connection successful!
+2025-04-26 04:45:24,068 - ERROR - Error: 'charmap' codec can't encode character '\u279d' in position 473: character maps to <undefined>
+2025-04-26 04:45:24,068 - INFO - Connection closed.
+2025-04-26 04:46:33,622 - INFO - Connection successful!
+2025-04-26 04:46:33,623 - ERROR - Error: 'charmap' codec can't encode character '\u279d' in position 473: character maps to <undefined>
+2025-04-26 04:46:33,624 - INFO - Connection closed.
+2025-04-26 04:50:40,089 - INFO - Connection successful!
+2025-04-26 04:50:40,090 - ERROR - Error: 'charmap' codec can't encode character '\u279d' in position 473: character maps to <undefined>
+2025-04-26 04:50:40,091 - INFO - Connection closed.
+2025-04-26 04:53:32,840 - INFO - Connection successful!
+2025-04-26 04:53:32,844 - ERROR - Error: 'charmap' codec can't encode character '\u279d' in position 473: character maps to <undefined>
+2025-04-26 04:53:32,845 - INFO - Connection closed.
+2025-04-26 04:55:24,172 - INFO - Connection successful!
+2025-04-26 04:55:24,174 - ERROR - Error: 'charmap' codec can't encode character '\u279d' in position 473: character maps to <undefined>
+2025-04-26 04:55:24,174 - INFO - Connection closed.
+2025-04-26 04:58:21,650 - INFO - Connection successful!
+2025-04-26 04:58:21,651 - ERROR - Error: 'charmap' codec can't encode character '\u279d' in position 473: character maps to <undefined>
+2025-04-26 04:58:21,652 - INFO - Connection closed.
+2025-04-26 04:59:41,986 - INFO - Connection successful!
+2025-04-26 04:59:41,991 - ERROR - Error: 'charmap' codec can't encode character '\u279d' in position 473: character maps to <undefined>
+2025-04-26 04:59:42,002 - INFO - Connection closed.
+2025-04-26 05:00:31,405 - INFO - Connection successful!
+2025-04-26 05:00:31,407 - ERROR - Error: 'charmap' codec can't encode character '\u279d' in position 473: character maps to <undefined>
+2025-04-26 05:00:31,408 - INFO - Connection closed.
+2025-04-26 05:01:08,097 - INFO - Connection successful!
+2025-04-26 05:01:08,099 - ERROR - Error: 'charmap' codec can't encode character '\u279d' in position 473: character maps to <undefined>
+2025-04-26 05:01:08,100 - INFO - Connection closed.
+2025-04-26 05:01:43,504 - INFO - Connection successful!
+2025-04-26 05:01:43,508 - ERROR - Error: 'charmap' codec can't encode character '\u279d' in position 473: character maps to <undefined>
+2025-04-26 05:01:43,509 - INFO - Connection closed.
+2025-04-26 05:02:20,943 - INFO - Connection successful!
+2025-04-26 05:02:20,945 - ERROR - Error: 'charmap' codec can't encode character '\u279d' in position 473: character maps to <undefined>
+2025-04-26 05:02:20,948 - INFO - Connection closed.
+2025-04-26 05:04:17,922 - INFO - Connection successful!
+2025-04-26 05:04:17,937 - ERROR - Error: syntax error at or near "LATERAL"
+LINE 32: LATERAL (
+         ^
+
+2025-04-26 05:04:17,943 - INFO - Connection closed.
+2025-04-26 07:38:41,389 - INFO - Connection successful!
+2025-04-26 07:38:41,412 - ERROR - Error: missing FROM-clause entry for table "bronze"
+LINE 35:         to_jsonb(bronze.consumption_expenditure)
+                          ^
+
+2025-04-26 07:38:41,413 - INFO - Connection closed.
+2025-04-26 07:39:47,281 - INFO - Connection successful!
+2025-04-26 07:39:47,286 - ERROR - Error: missing FROM-clause entry for table "bronze"
+LINE 33:         to_jsonb(bronze.consumption_expenditure)
+                          ^
+
+2025-04-26 07:39:47,290 - INFO - Connection closed.
+2025-04-26 07:40:48,777 - INFO - Connection successful!
+2025-04-26 07:40:48,837 - ERROR - Error: invalid input syntax for type integer: "id"
+
+2025-04-26 07:40:48,841 - INFO - Connection closed.
+2025-04-26 07:42:27,622 - INFO - Connection successful!
+2025-04-26 07:42:27,914 - INFO - SQL file 'C:\Users\fd92u\ml-ds\sql\supabase\migrations\silver_transform_consumption_expenditure.sql' imported successfully!
+2025-04-26 07:42:27,915 - INFO - Connection closed.
+2025-04-26 14:10:11,656 - INFO - Connection successful!
+2025-04-26 14:10:12,112 - INFO - SQL file 'C:\Users\fd92u\ml-ds\sql\supabase\migrations\silver_transform_consumption_expenditure.sql' imported successfully!
+2025-04-26 14:10:12,114 - INFO - Connection closed.
+2025-04-26 14:41:16,250 - INFO - Connection successful!
+2025-04-26 14:41:16,260 - INFO - Stored procedure not found. Importing SQL file...
+2025-04-26 14:41:16,327 - INFO - SQL file 'C:\Users\fd92u\ml-ds\sql\supabase\migrations\silver_transform_consumption_expenditure.sql' imported successfully!
+2025-04-26 14:41:16,329 - INFO - Calling stored procedure silver.transform_consumption_expenditure()...
+2025-04-26 14:41:16,752 - INFO - Stored procedure executed successfully!
+2025-04-26 14:41:16,753 - INFO - Connection closed.
+2025-04-26 15:04:52,973 - INFO - Connection successful!
+2025-04-26 15:04:52,979 - INFO - Stored procedure already exists.
+2025-04-26 15:04:52,980 - INFO - Calling stored procedure silver.transform_consumption_expenditure()...
+2025-04-26 15:04:53,434 - INFO - Stored procedure executed successfully!
+2025-04-26 15:04:53,435 - INFO - Connection closed.
+2025-04-26 15:07:19,557 - INFO - Connection successful!
+2025-04-26 15:07:19,568 - INFO - Stored procedure not found. Importing SQL file...
+2025-04-26 15:07:19,579 - ERROR - Error: syntax error at or near "CREATE"
+LINE 2: CREATE OR REPLACE FUNCTION silver.add_id_column()
+        ^
+
+2025-04-26 15:07:19,580 - INFO - Connection closed.
+2025-04-26 15:09:46,125 - INFO - Connection successful!
+2025-04-26 15:09:46,131 - INFO - Stored procedure not found. Importing SQL file...
+2025-04-26 15:09:46,145 - INFO - SQL file 'C:\Users\fd92u\ml-ds\sql\supabase\migrations\silver_transform_consumption_expenditure.sql' imported successfully!
+2025-04-26 15:09:46,145 - INFO - Calling stored procedure silver.transform_consumption_expenditure()...
+2025-04-26 15:09:46,595 - INFO - Stored procedure executed successfully!
+2025-04-26 15:09:46,597 - INFO - Connection closed.
+2025-04-26 15:21:00,983 - INFO - Connection successful!
+2025-04-26 15:21:00,995 - ERROR - Error: unterminated dollar-quoted string at or near "$$
+BEGIN
+    -- Add id column and set it as the first column
+    ALTER TABLE silver.consumption_expenditure
+    ADD COLUMN id SERIAL;"
+LINE 5: AS $$
+           ^
+
+2025-04-26 15:21:00,996 - INFO - Connection closed.
+2025-04-26 15:29:25,441 - INFO - Connection successful!
+2025-04-26 15:29:25,450 - INFO - Stored procedure not found. Importing SQL file...
+2025-04-26 15:29:25,486 - INFO - SQL file 'C:\Users\fd92u\ml-ds\sql\supabase\migrations\silver_transform_consumption_expenditure.sql' imported successfully!
+2025-04-26 15:29:25,488 - INFO - Calling stored procedure silver.transform_consumption_expenditure()...
+2025-04-26 15:29:25,950 - INFO - Stored procedure executed successfully!
+2025-04-26 15:29:25,951 - INFO - Connection closed.
+2025-04-26 15:34:28,707 - INFO - Connection successful!
+2025-04-26 15:34:28,712 - INFO - Stored procedure not found. Importing SQL file...
+2025-04-26 15:34:28,726 - ERROR - Error: syntax error at or near ";"
+LINE 56:     BEGIN;
+                  ^
+
+2025-04-26 15:34:28,728 - INFO - Connection closed.
+2025-04-26 15:35:15,776 - INFO - Connection successful!
+2025-04-26 15:35:15,782 - INFO - Stored procedure not found. Importing SQL file...
+2025-04-26 15:35:15,791 - INFO - SQL file 'C:\Users\fd92u\ml-ds\sql\supabase\migrations\silver_transform_consumption_expenditure.sql' imported successfully!
+2025-04-26 15:35:15,791 - INFO - Calling stored procedure silver.transform_consumption_expenditure()...
+2025-04-26 15:35:16,075 - ERROR - Error: invalid transaction termination
+CONTEXT:  PL/pgSQL function silver.transform_consumption_expenditure() line 29 at COMMIT
+
+2025-04-26 15:35:16,076 - INFO - Connection closed.
+2025-04-26 15:43:12,041 - INFO - Connection successful!
+2025-04-26 15:43:12,047 - INFO - Stored procedure not found. Importing SQL file...
+2025-04-26 15:43:12,060 - INFO - SQL file 'C:\Users\fd92u\ml-ds\sql\supabase\migrations\silver_transform_consumption_expenditure.sql' imported successfully!
+2025-04-26 15:43:12,061 - INFO - Calling stored procedure silver.transform_consumption_expenditure()...
+2025-04-26 15:43:12,071 - ERROR - Error: relation "silver.consumption_expenditure_id_seq" does not exist
+LINE 4:         nextval('silver.consumption_expenditure_id_seq') AS ...
+                        ^
+QUERY:  CREATE TABLE silver.consumption_expenditure AS
+    SELECT
+        -- Add 'id' column explicitly as the first column in the SELECT statement
+        nextval('silver.consumption_expenditure_id_seq') AS id, -- Generate ID for each row
+        LOWER(REPLACE(REPLACE(REPLACE("Country Name", ' ', '_'), '-', '_'), '.', '')) AS country_name,
+        LOWER(REPLACE(REPLACE(REPLACE("Country Code", ' ', '_'), '-', '_'), '.', '')) AS country_code,
+        LOWER(REPLACE(REPLACE(REPLACE("Indicator Name", ' ', '_'), '-', '_'), '.', '')) AS indicator_name,
+        LOWER(REPLACE(REPLACE(REPLACE("Indicator Code", ' ', '_'), '-', '_'), '.', '')) AS indicator_code,
+        kv.key::INT AS year,
+        NULLIF(kv.value, '')::NUMERIC AS value,
+        NOW()::TIMESTAMP AS inserted_at
+    FROM bronze.consumption_expenditure AS b
+    CROSS JOIN LATERAL (
+        SELECT *
+        FROM jsonb_each_text(
+            to_jsonb(b)
+            - 'Country Name'
+            - 'Country Code'
+            - 'Indicator Name'
+            - 'Indicator Code'
+            - '2024'
+            - 'Unnamed: 69'
+        )
+        WHERE jsonb_each_text.key ~ '^\d{4}$'
+    ) AS kv
+CONTEXT:  PL/pgSQL function silver.transform_consumption_expenditure() line 4 at SQL statement
+
+2025-04-26 15:43:12,081 - INFO - Connection closed.
+2025-04-26 15:46:13,805 - INFO - Connection successful!
+2025-04-26 15:46:13,811 - INFO - Stored procedure not found. Importing SQL file...
+2025-04-26 15:46:13,826 - INFO - SQL file 'C:\Users\fd92u\ml-ds\sql\supabase\migrations\silver_transform_consumption_expenditure.sql' imported successfully!
+2025-04-26 15:46:13,827 - INFO - Calling stored procedure silver.transform_consumption_expenditure()...
+2025-04-26 15:46:14,178 - INFO - Stored procedure executed successfully!
+2025-04-26 15:46:14,178 - INFO - Connection closed.
+2025-04-26 16:04:43,555 - INFO - Connection successful!
+2025-04-26 16:04:43,563 - INFO - Stored procedure not found. Importing SQL file...
+2025-04-26 16:04:43,618 - INFO - SQL file 'C:\Users\fd92u\ml-ds\sql\supabase\migrations\silver_transform_consumption_expenditure.sql' imported successfully!
+2025-04-26 16:04:43,619 - INFO - Calling stored procedure silver.transform_consumption_expenditure()...
+2025-04-26 16:04:44,049 - INFO - Stored procedure executed successfully!
+2025-04-26 16:04:44,050 - INFO - Connection closed.
+2025-04-26 18:06:02,268 - INFO - Connection successful!
+2025-04-26 18:06:02,276 - INFO - Stored procedure not found. Importing SQL file...
+2025-04-26 18:06:02,319 - INFO - SQL file 'C:\Users\fd92u\ml-ds\sql\supabase\migrations\silver_transform_consumption_expenditure.sql' imported successfully!
+2025-04-26 18:06:02,322 - INFO - Calling stored procedure silver.transform_consumption_expenditure()...
+2025-04-26 18:06:02,652 - INFO - Stored procedure executed successfully!
+2025-04-26 18:06:02,653 - INFO - Connection closed.
+2025-04-26 18:14:51,920 - INFO - Connection successful!
+2025-04-26 18:14:51,948 - INFO - Stored procedure not found. Importing SQL file...
+2025-04-26 18:14:51,985 - INFO - SQL file 'C:\Users\fd92u\ml-ds\sql\supabase\migrations\silver_transform_consumption_expenditure.sql' imported successfully!
+2025-04-26 18:14:51,986 - INFO - Calling stored procedure silver.transform_consumption_expenditure()...
+2025-04-26 18:14:52,314 - INFO - Stored procedure executed successfully!
+2025-04-26 18:14:52,315 - INFO - Connection closed.

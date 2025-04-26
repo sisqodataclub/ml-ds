@@ -14,3 +14,4 @@
 # Make sure to deactivate the virtual environment after use:
 #    deactivate
 pandas
+psycopg2
