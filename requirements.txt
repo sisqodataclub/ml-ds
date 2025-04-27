@@ -15,3 +15,7 @@
 #    deactivate
 pandas
 psycopg2
+gspread
+google-auth
+oauth2client
+gspread-dataframe
