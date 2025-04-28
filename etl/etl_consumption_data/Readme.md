@@ -1,4 +1,185 @@
+# Comprehensive Guide to Automating SQL Migrations, ETL, and Data Visualization with Python
 
+This document provides a step-by-step guide to automating SQL migrations, performing ETL processes, managing PostgreSQL views, and exporting data to Google Sheets using Python. The outlined workflows and functions streamline database operations and enable efficient data analysis and visualization.
+
+At the end of the process, the **final result** is an **interactive Tableau dashboard**, available here:
+
+[![Dashboard 1](https://public.tableau.com/static/images/Gl/GlobalHouseholdandNPISHsFinalconsumptionexpenditure/Dashboard1/1_rss.png)](https://public.tableau.com/views/GlobalHouseholdandNPISHsFinalconsumptionexpenditure/Dashboard1)
+
+## Table of Contents
+
+1. [Automating SQL Migrations with Python](#automating-sql-migrations-with-python)
+2. [Importing SQL to PostgreSQL](#importing-sql-to-postgresql)
+3. [ETL Process: Inserting CSV Data into PostgreSQL](#etl-process-inserting-csv-data-into-postgresql)
+4. [Enhanced SQL Import with Stored Procedure Execution](#enhanced-sql-import-with-stored-procedure-execution)
+5. [Creating and Managing PostgreSQL Views](#creating-and-managing-postgresql-views)
+6. [Exporting PostgreSQL Views to Google Sheets](#exporting-postgresql-views-to-google-sheets)
+
+---
+
+## Automating SQL Migrations with Python
+
+This section demonstrates how to automate SQL migrations using Python and the Supabase CLI. The script generates SQL migration files and populates them with `CREATE TABLE` statements derived from CSV files.
+
+### Key Features
+
+- **Automated Migration File Creation**: Uses Supabase CLI to create migration files.
+- **Dynamic SQL Table Generation**: Reads CSV files and generates `CREATE TABLE` statements.
+- **Schema Management**: Ensures the existence of `bronze`, `silver`, and `gold` schemas.
+
+### Example Workflow
+
+1. Create a migration file using `run_supabase_migration`.
+2. Generate SQL from a CSV file using `write_sql_to_existing_file`.
+3. Execute the workflow to tie everything together.
+
+---
+
+## Importing SQL to PostgreSQL
+
+The `import_sql_to_postgres` function imports SQL commands from a file into a PostgreSQL database. It includes logging, error handling, and connection management.
+
+### Key Features
+
+- Establishes a database connection using `psycopg2`.
+- Executes SQL commands from a file and commits changes.
+- Logs actions and handles errors gracefully.
+
+### Example Usage
+
+```python
+db_params = {
+    "host": "127.0.0.1",
+    "database": "my_database",
+    "user": "postgres",
+    "password": "password"
+}
+
+sql_file_path = r"C:\path\to\your\sql_file.sql"
+import_sql_to_postgres(db_params, sql_file_path)
+```
+
+---
+
+## ETL Process: Inserting CSV Data into PostgreSQL
+
+The `etl_insert_consumption_data` function performs an ETL process to load data from a CSV file into a PostgreSQL table.
+
+### Key Features
+
+- Reads and preprocesses CSV data using `pandas`.
+- Dynamically generates `INSERT` statements for PostgreSQL.
+- Handles errors and ensures proper connection management.
+
+### Example Usage
+
+```python
+csv_file = r"C:\path\to\your\file.csv"
+db_config = {
+    "host": "127.0.0.1",
+    "database": "my_database",
+    "user": "postgres",
+    "password": "password"
+}
+
+etl_insert_consumption_data(csv_file, db_config)
+```
+
+---
+
+## Enhanced SQL Import with Stored Procedure Execution
+
+This function extends the SQL import process by checking for the existence of a stored procedure, importing it if missing, and executing it.
+
+### Key Features
+
+- Verifies the existence of a stored procedure.
+- Imports SQL commands if the procedure is missing.
+- Executes the stored procedure and logs the process.
+
+### Example Usage
+
+```python
+db_params = {
+    "host": "127.0.0.1",
+    "database": "my_database",
+    "user": "postgres",
+    "password": "password"
+}
+
+sql_file_path = r"C:\path\to\your\sql_file.sql"
+import_sql_to_postgres(db_params, sql_file_path)
+```
+
+---
+
+## Creating and Managing PostgreSQL Views
+
+This section introduces functions to create and manage PostgreSQL views for analyzing consumption expenditure data.
+
+### Key Features
+
+- **Top 10 Consumption View**: Displays the top 10 countries with the highest consumption expenditure.
+- **Total Consumption View**: Shows total consumption expenditure for all valid countries.
+- **Missing Data View**: Lists countries with missing or invalid data.
+- **Trend View**: Displays historical trends for the top 10 countries.
+
+### Example Usage
+
+```python
+db_params = {
+    "host": "127.0.0.1",
+    "database": "my_database",
+    "user": "postgres",
+    "password": "password"
+}
+
+create_top10_consumption_view(db_params)
+total_consumption_view(db_params)
+missing_consumption_view(db_params)
+create_top10_consumption_trend_view(db_params)
+```
+
+---
+
+## Exporting PostgreSQL Views to Google Sheets
+
+This script exports PostgreSQL views into Google Sheets for easy sharing and visualization.
+
+### Key Features
+
+- Loads data from PostgreSQL views into Pandas DataFrames.
+- Authenticates with Google Sheets using a service account.
+- Writes data into separate worksheets in a Google Sheet.
+
+### Example Usage
+
+```python
+db_params = {
+    "host": "127.0.0.1",
+    "database": "my_database",
+    "user": "postgres",
+    "password": "password"
+}
+
+view_names = [
+    "top10_consumption_trend",
+    "missing_consumption_view",
+    "total_consumption_view",
+    "top10_consumption_2023"
+]
+
+# Export views to Google Sheets
+export_views_to_google_sheets(db_params, view_names, "service_account.json", "tableau_consumption")
+```
+
+---
+
+## Conclusion
+
+This guide provides a comprehensive solution for automating SQL migrations, performing ETL processes, managing PostgreSQL views, and exporting data to Google Sheets. By leveraging these Python scripts, you can streamline database operations, enhance data analysis, and improve collaboration through data visualization.
+
+# DEEP EXPLANATION
 
 # Automating SQL Migrations with Python
 
