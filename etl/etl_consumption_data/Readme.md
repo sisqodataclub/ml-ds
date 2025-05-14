@@ -1,10 +1,10 @@
 # Comprehensive Guide to Automating SQL Migrations, ETL, and Data Visualization with Python
 
-This document provides a step-by-step guide to automating SQL migrations, performing ETL processes, managing PostgreSQL views, and exporting data to Google Sheets using Python. The outlined workflows and functions streamline database operations and enable efficient data analysis and visualization.
+This project leverages Python to automate the full data pipeline for the Global Household and NPISHs Final Consumption Expenditure dataset. The process begins with the generation of SQL migration scripts used to create and populate a PostgreSQL database with raw data in the Bronze layer. Python is used to trigger stored procedures that clean and transform the data, with the results stored in the Silver layer. Subsequently, additional Python scripts are used to create and manage SQL views within the Gold layer, delivering structured and analysis-ready datasets. Finally, to support data visualization in Tableau Public, Python is used to execute the final view queries and export their outputs to Google Sheets, which acts as the data source for the interactive dashboard.
 
 At the end of the process, the **final result** is an **interactive Tableau dashboard**, available here:
 
-[![Dashboard 1](https://public.tableau.com/static/images/Gl/GlobalHouseholdandNPISHsFinalconsumptionexpenditure/Dashboard1/1_rss.png)](https://public.tableau.com/views/GlobalHouseholdandNPISHsFinalconsumptionexpenditure/Dashboard1)
+[![Dashboard 1](https://public.tableau.com/static/images/Gl/GlobalHouseholdandNPISHsFinalconsumptionexpenditure/Dashboard1/1_rss.png)](https://public.tableau.com/views/GlobalHouseholdandNPISHsFinalconsumptionexpenditure/Dashboard1) 
 
 ## Table of Contents
 

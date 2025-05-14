@@ -30,6 +30,7 @@ with open(html_file, 'w', encoding='utf-8') as f:
 
 print(f"Converted '{markdown_file}' to '{html_file}' successfully.")
 
+
 # --- Step 2: Open HTML content ---
 with open(html_file, 'r', encoding='utf-8') as f:
     html_text = f.read()
