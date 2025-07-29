@@ -13,7 +13,8 @@ Starting a business is exciting, but many founders stumble by neglecting two cri
 
 ## 1. Lack of Market Research
 
-Many entrepreneurs fall in love with their ideas without validating if the market actually wants them. Skipping due diligence often leads to:
+Many entrepreneurs fall in love with their ideas without validating if the market actually wants them. 
+Skipping due diligence often leads to:
 
 - Offering a product or service nobody needs.
 - Entering an already saturated market.
